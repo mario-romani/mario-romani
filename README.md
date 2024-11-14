@@ -1,4 +1,6 @@
-## Hi there 👋
+## Mario Romaní
+
+I am a Master's student in Engineering for Innovation and Technological Development at the Autonomous University of Guerrero, Mexico, focused on programming artificial intelligence algorithms.
 
 <!--
 **mario-romani/mario-romani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
